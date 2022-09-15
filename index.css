@@ -1,0 +1,58 @@
+*{
+  font-family: 'Poppins', sans-serif;
+}
+
+
+.navbar-nav a:hover { 
+  color: #fff !important; 
+}
+
+.bg-image { 
+  background-color: #515151 !important;
+  position: relative;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: auto;
+}
+
+.bg-image3 {
+  background-image: url(./images/Contact Section.png);
+  background-size: 100%;
+} 
+h1 {
+  font-weight: bold;
+  text-shadow: 1;
+}
+
+h2, h3, h4, h5, h6 {
+  font-family: 'Poppins', sans-serif;
+}
+
+ul { 
+  list-style: none;
+
+}
+
+.card-link{
+  color: white;
+}
+
+.card-link a:hover { 
+  color: #FFFF00 !important; 
+
+}
+
+.contact{
+  align-items: right;
+}
+
+
+footer {
+  background-color: #1f1f1f;
+  color: white;
+  font-family:'Poppins', sans-serif; 
+  font-size: 10px;
+  line-height: 4;
+  margin-bottom: 1rem;
+}
