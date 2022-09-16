@@ -15,14 +15,13 @@ html {
   position: relative;
   left: 0;
   top: 0;
-  width: 100%;
   height: auto;
 }
 
-.bg-image3 {
+/*.bg-image3 {
   background-image: url(./images/Contact Section.png);
   background-size: 100%;
-} 
+} */
 h1 {
   font-weight: bold;
   text-shadow: 1;
