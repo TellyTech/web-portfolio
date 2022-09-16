@@ -47,6 +47,10 @@ ul {
   align-items: right;
 }
 
+.btn {
+  align-items: center;
+}
+
 
 footer {
   background-color: #1f1f1f;
