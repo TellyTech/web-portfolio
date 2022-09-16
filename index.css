@@ -62,4 +62,5 @@ footer {
   font-size: 10px;
   line-height: 4;
   margin-bottom: 1rem;
+  position: sticky;
 }
